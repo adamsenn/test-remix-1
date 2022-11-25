@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b2ef80d1-814e-4b4c-9823-d550d88391fc/deploy-status)](https://app.netlify.com/sites/astest-remix/deploys)
 
-# Remix Test
+# My Remix Test
 
 - [Netlify](https://netlify.com/) deployment to the [Edge](https://www.netlify.com/products/edge) + deploy previews and CI/CD
 - [Supabase](https://supabase.com/) database and authentication
