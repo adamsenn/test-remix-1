@@ -1,20 +1,6 @@
-# Remix K-pop Stack
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b2ef80d1-814e-4b4c-9823-d550d88391fc/deploy-status)](https://app.netlify.com/sites/astest-remix/deploys)
 
-![k-pop site image](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1648844684/CleanShot_2022-04-01_at_16.23.40_2x_oo3ppe.jpg)
-
-Deployed Site: [kpop-stack.netlify.app](https://kpop-stack.netlify.app)
-
-Learn more about [Remix Stacks](https://remix.run/stacks).
-
-```
-npx create-remix --template netlify-templates/kpop-stack
-```
-
-Click this button to create a new Github repo, new Netlify project and deploy this stack to a [CDN](https://jamstack.org/glossary/cdn/).
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/kpop-stack)
-
-## What's in the stack
+# Remix Test
 
 - [Netlify](https://netlify.com/) deployment to the [Edge](https://www.netlify.com/products/edge) + deploy previews and CI/CD
 - [Supabase](https://supabase.com/) database and authentication
